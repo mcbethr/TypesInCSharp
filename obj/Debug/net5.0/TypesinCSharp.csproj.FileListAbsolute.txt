@@ -1,0 +1,16 @@
+C:\Code\TypesinCSharp\TypesinCSharp\bin\Debug\net5.0\TypesinCSharp.exe
+C:\Code\TypesinCSharp\TypesinCSharp\bin\Debug\net5.0\TypesinCSharp.deps.json
+C:\Code\TypesinCSharp\TypesinCSharp\bin\Debug\net5.0\TypesinCSharp.runtimeconfig.json
+C:\Code\TypesinCSharp\TypesinCSharp\bin\Debug\net5.0\TypesinCSharp.runtimeconfig.dev.json
+C:\Code\TypesinCSharp\TypesinCSharp\bin\Debug\net5.0\TypesinCSharp.dll
+C:\Code\TypesinCSharp\TypesinCSharp\bin\Debug\net5.0\ref\TypesinCSharp.dll
+C:\Code\TypesinCSharp\TypesinCSharp\bin\Debug\net5.0\TypesinCSharp.pdb
+C:\Code\TypesinCSharp\TypesinCSharp\obj\Debug\net5.0\TypesinCSharp.csproj.AssemblyReference.cache
+C:\Code\TypesinCSharp\TypesinCSharp\obj\Debug\net5.0\TypesinCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\TypesinCSharp\TypesinCSharp\obj\Debug\net5.0\TypesinCSharp.AssemblyInfoInputs.cache
+C:\Code\TypesinCSharp\TypesinCSharp\obj\Debug\net5.0\TypesinCSharp.AssemblyInfo.cs
+C:\Code\TypesinCSharp\TypesinCSharp\obj\Debug\net5.0\TypesinCSharp.csproj.CoreCompileInputs.cache
+C:\Code\TypesinCSharp\TypesinCSharp\obj\Debug\net5.0\TypesinCSharp.dll
+C:\Code\TypesinCSharp\TypesinCSharp\obj\Debug\net5.0\ref\TypesinCSharp.dll
+C:\Code\TypesinCSharp\TypesinCSharp\obj\Debug\net5.0\TypesinCSharp.pdb
+C:\Code\TypesinCSharp\TypesinCSharp\obj\Debug\net5.0\TypesinCSharp.genruntimeconfig.cache
