@@ -14,12 +14,18 @@ namespace TypesinCSharp
             //MyInteger = MyInteger / MyBoolean;
 
 
+            //CSharp is strongly typed.
+            decimal OneDecimal = 1;
+            //int OneInt = OneDecimal; //Can't do this;
+            int OneInt = Convert.ToInt32(OneDecimal);
 
 
 
 
-            string OneString = "1";
-            int OneInt = Convert.ToInt32(OneString);
+
+
+
+
 
 
             ///VAR will type this at compile time and is smart enough to know
@@ -38,9 +44,6 @@ namespace TypesinCSharp
             //But This won't work
             int NewInteger;
             //NewInteger = sum;
-
-
-
 
             //We have to do this.
             //Is Pepsi OK?
